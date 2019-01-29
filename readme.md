@@ -1,0 +1,1 @@
+### A Static html news website built using a CSS grid.
